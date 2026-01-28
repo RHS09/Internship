@@ -1,0 +1,7 @@
+{
+  "name": "BookMyTurf",
+  "description": "A comprehensive sports turf booking platform inspired by BookMyShow, featuring real-time availability, dynamic time-slot pricing with night surges, and AI-powered recommendations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
